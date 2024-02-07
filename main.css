@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+    padding-top: 2em;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    text-align: center;
+}
+
+.story-box {
+    width: 75%;
+    margin: auto;
+}
+
+p {
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+.logo {
+    background-image: url("https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png");
+    background-size: contain;
+    height: 5rem;
+    background-repeat: no-repeat;
+    background-position: center;
+}
